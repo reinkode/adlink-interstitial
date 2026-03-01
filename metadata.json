@@ -1,0 +1,5 @@
+{
+  "name": "AdLink Interstitial",
+  "description": "A configurable interstitial page that displays an AdsTerra SmartLink for a set duration before revealing target content.",
+  "requestFramePermissions": []
+}
